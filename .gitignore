@@ -1,4 +1,4 @@
 .env
 test.ipynb
-test.py
+*.py
 DS_Store
