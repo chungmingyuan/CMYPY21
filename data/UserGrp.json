@@ -1,0 +1,9 @@
+{
+    "user":{
+        "Email":"chungmingyuan@gmail.com",        
+        "lname":"Yuan",
+        "fname":"Chung",
+        "ReportEmails":"chungmingyuan@gmail.com"
+    },
+    "stockgroups":["DJIA"]
+}
